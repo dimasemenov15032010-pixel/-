@@ -1,0 +1,4 @@
+.env
+accounts.db
+__pycache__/
+*.pyc
